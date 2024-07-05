@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "bcdee350b1844dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f7ea32d8859de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5f7a22695b82aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orion/Impact Factor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eee508b0e8e4d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec72967d92fe5baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab26b302d152ccc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c34d46af0e6fe8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "477b15460fab0c42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8b80d9988e69760",
+    "type": "split",
+    "children": [
+      {
+        "id": "469a3b6a7739b162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8661764e5230158d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orion/Impact Factor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cceb2030a6fbe57c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orion/Impact Factor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d825916f685924c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79de8f6d42bb1454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orion/Impact Factor.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a5f7a22695b82aa1",
+  "lastOpenFiles": [
+    "Image Processing/Medical Image Augmentation Using GAN.md",
+    "Image Processing/Papers to Cite.md",
+    "Untitled.canvas",
+    "Orion/Impact Factor.md",
+    "Personal/NVIM.md",
+    "Pasted image 20230715190747.png",
+    "Pasted image 20230715190743.png",
+    "Image Processing/GenerativeAdversarialNetworksinMedicalImageaugmentationAreview-ComputersinBiologyandMedicine-2022.pdf",
+    "Image Processing/GenerativeAdversarialNetworksinMedicalImageaugmentationAreview-ComputersinBiologyandMedicine-2022.sync-conflict-20230715-172731-ZNNRIAX.pdf",
+    "Thesis/Datasets/just-pest-dataset.zip",
+    "Thesis/collected-papers-agriculture/RHH-Jute.pdf",
+    "Thesis/collected-papers-agriculture/Improved Detection of Plant Diseases in Jute using Multi-SVM Classifier based on Machine Learning.pdf",
+    "Thesis/collected-papers-agriculture/JUTE/7-Guava-Detection-and-Pose-Estimation-Using-a-Low-Cost-RGB-D-Sensor-in-the-Field.pdf",
+    "Thesis/collected-papers-agriculture/Review on jute leaf  A powerful biological tool.pdf",
+    "Thesis/collected-papers-agriculture/Intelligent Identification of Jute Pests Based on Transfer Learning and Deep Convolutional Neural Networks.pdf",
+    "Thesis/collected-papers-agriculture/Research on jute (Corchorus olitorius and C. capsularis) and kenaf (Hibiscus cannabinus and H. sabdariffa)  present status and future perspective",
+    "Orion/Pasted image 20230712134444.png",
+    "Thesis/Datasets/jute_insect_data_all/train/Field Cricket/field_cricket_0_5774.jpg",
+    "Thesis/Datasets/jute_insect_data_all/train/Field Cricket/field_cricket_0_332.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Field Cricket/field_cricket_0_9806.jpg",
+    "Thesis/Datasets/jute_insect_data_all/train/Field Cricket/field_cricket_0_3643.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Spilosoma Obliqua/spilosoma_obliqua_0_9384.jpg",
+    "Thesis/Datasets/jute_insect_data_all/train/Spilosoma Obliqua/spilosoma_obliqua_0_9788.jpg",
+    "Thesis/Datasets/jute_insect_data_all/train/Field Cricket/field_cricket_0_4576.jpg",
+    "Image Processing/Breast cancer augmentation using GAN.docx",
+    "Orion/AST.md",
+    "GenerativeAdversarialNetworksinMedicalImageaugmentationAreview-ComputersinBiologyandMedicine-2022.pdf.md",
+    "Thesis/Mango Ripeness Detection.md"
+  ]
+}

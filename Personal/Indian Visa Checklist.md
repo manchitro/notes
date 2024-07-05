@@ -1,0 +1,38 @@
+- [x] Priya Photo - 2 copies passport size 
+- [x] Sazid Photo - 2 copies passport size
+- [x] Priya Photo - 2 copies visa size
+- [x] Sazid Photo - 2 copies visa size
+- [x] Priya Passport
+	- [x] need copy
+- [x] Sazid Passport
+	- [x] need copy
+- [x] Priya Passport old
+- [x] Sazid Passport old
+- [x] Priya NID
+	- [x] need copy + print 
+- [x] Sazid NID + Copy
+- [x] Sazid Smart NID
+	- [x] need copy 
+- [ ] ~~Priya B.Arch Provisional Certificate + copy~~
+- [x] Priya HSC/SSC Certificate copy
+	- [x] need copy
+- [x] Sazid Office Leave NOC
+	- [x] need copy
+- [x] Sazid B.Sc. Certificate + copy
+	- [x] need copy
+- [x] Sazid M.Sc. Provisional Certificate + copy
+	- [x] need copy x 2
+- [x] Priya Electricity Bill + copy (February)
+	- [x] need copy 
+- [x] Sazid Electricity Bill + copy (February)
+	- [x] need copy 
+- [ ] ~~Priya Bank Statement + copy~~
+- [x] Sazid Bank Statement
+	- [x] need copy
+- [x] Priya Parents NID copy
+- [x] Sazid Parents NID copy
+- [x] Sazid Dollar Endorsement copy
+	- [x] need copy 
+- [ ] ~~Priya Dollar Endorsement copy~~
+- [x] Marriage Certificate 
+	- [x] need copy

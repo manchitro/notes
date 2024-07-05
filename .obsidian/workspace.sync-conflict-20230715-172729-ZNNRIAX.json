@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "82bd89237a30d28c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ab84ebabafb196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "943773d3f511e943",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Thesis/collected-papers-agriculture/Improved Detection of Plant Diseases in Jute using Multi-SVM Classifier based on Machine Learning.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e916d0bd5b774e69",
+    "type": "split",
+    "children": [
+      {
+        "id": "68dd29832aeb1bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "660dce4b67791f1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8e5de317d1e68af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ce357b331c96502",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c21f71bc286fe41a",
+    "type": "split",
+    "children": [
+      {
+        "id": "05160f702148fb0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99c02fdef708abd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thesis/collected-papers-agriculture/Improved Detection of Plant Diseases in Jute using Multi-SVM Classifier based on Machine Learning.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "049e6c9ac5ea66e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Thesis/collected-papers-agriculture/Improved Detection of Plant Diseases in Jute using Multi-SVM Classifier based on Machine Learning.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3679fe2a02b1092a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7901c02ad9f48233",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thesis/collected-papers-agriculture/Improved Detection of Plant Diseases in Jute using Multi-SVM Classifier based on Machine Learning.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "943773d3f511e943",
+  "lastOpenFiles": [
+    "Thesis/Datasets/just-pest-dataset.zip",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_9804.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_9673.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_8984.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_8791.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_7557.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_7186.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_7108.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_6999.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_6743.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite/yellow_mite_0_6454.jpg",
+    "Thesis/Datasets/jute_insect_data_all/validation/Yellow Mite",
+    "Thesis/Datasets/jute_insect_data_all/validation/Spilosoma Obliqua",
+    "Thesis/Datasets/jute_insect_data_all/validation/Jute Stem Weevil",
+    "Thesis/Datasets/jute_insect_data_all/validation/Field Cricket",
+    "Thesis/Datasets/jute_insect_data_all/validation",
+    "Thesis/Datasets/jute_insect_data_all/train/Yellow Mite",
+    "Thesis/Datasets/jute_insect_data_all/train/Spilosoma Obliqua",
+    "Thesis/Datasets/jute_insect_data_all/train/Jute Stem Weevil",
+    "Thesis/Datasets/jute_insect_data_all/train/Field Cricket",
+    "Thesis/Datasets/jute_insect_data_all/train",
+    "Thesis/Jute Disease Detection.md",
+    "Image Processing/Medical Image Augmentation Using GAN.md",
+    "[[GenerativeAdversarialNetworksinMedicalImageaugmentationAreview-ComputersinBiologyandMedicine-2022.pdf]].md",
+    "Orion/AST.md",
+    "Pasted image 20230712134429.png.md",
+    "Thesis/Mango Ripeness Detection.md",
+    "TODO List.md",
+    "agreement.md"
+  ]
+}

@@ -1,0 +1,4 @@
+- [ ] Pre workout food?
+- [ ] protein powder? 
+- [ ] muscle rest?
+- [ ] small muscle everyday + big muscle every other day? 

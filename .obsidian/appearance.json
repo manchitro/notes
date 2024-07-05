@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "img-border"
+  ],
+  "textFontFamily": "FiraCode Nerd Font Mono,Hack Nerd Font Mono,Inter,Roboto,Arial,SolaimanLipi,JetBrains Mono",
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "cssTheme": ""
+}

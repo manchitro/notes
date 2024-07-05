@@ -1,0 +1,17 @@
+{
+  "vimMode": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "focusNewTab": false,
+  "showLineNumber": true,
+  "tabSize": 4
+}

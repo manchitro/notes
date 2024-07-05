@@ -1,0 +1,1277 @@
+BEGIN:VCALENDAR
+PRODID:-//K Desktop Environment//NONSGML libkcal 4.3//EN
+VERSION:2.0
+X-KDE-ICAL-IMPLEMENTATION-VERSION:1.0
+X-WR-CALNAME:TAMU Events
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294685-final-examinations-spring-2024
+ 
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294685
+X-LIVEWHALE-SUMMARY:<p>\n  Spring semester <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/final-examination-schedu
+ les">final examinations</a> for all students.<br />\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240507T050000Z-294685@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Final Examinations - Spring 2024
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240507
+DTEND;VALUE=DATE:20240508
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https://calendar.tamu.edu/registrar/event/294726-census-date
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294726
+X-LIVEWHALE-SUMMARY:<p>\n  Spring official census date.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240131T060000Z-294726@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Census Date
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240131
+DTEND;VALUE=DATE:20240201
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240412T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART:20240412T050000Z
+DTEND:20240412T060000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240406T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T214534Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294690-spring-2024-graduation-deadline
+ -last-day-to
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294690
+X-LIVEWHALE-SUMMARY:<p>\n  Last day to apply for all degrees to be 
+ awarded in <strong>May</strong>.\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240430T050000Z-294690@calendar.tamu.edu
+LAST-MODIFIED:20230616T214534Z
+SUMMARY:Spring 2024 Graduation Deadline - Last Day to Apply
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240409T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240409
+DTEND;VALUE=DATE:20240410
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294687-final-examinations-spring-2024
+ 
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294687
+X-LIVEWHALE-SUMMARY:<p>\n  Spring semester <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/final-examination-schedu
+ les" target="_blank" rel="noopener">final examinations</a> for all 
+ students.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240503T050000Z-294687@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Final Examinations - Spring 2024
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240503
+DTEND;VALUE=DATE:20240504
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294688-final-examinations-spring-2024
+ 
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294688
+X-LIVEWHALE-SUMMARY:<p>\n  Spring semester <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/final-examination-schedu
+ les" target="_blank" rel="noopener">final examinations</a> for all 
+ students.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240502T050000Z-294688@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Final Examinations - Spring 2024
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240502
+DTEND;VALUE=DATE:20240503
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https://calendar.tamu.edu/registrar/event/294691-last-day-of-classes
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294691
+X-LIVEWHALE-SUMMARY:<p>\n  Last day of spring semester classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240430T050000Z-294691@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Last Day of Classes
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294728-first-day-of-classes
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294728
+X-LIVEWHALE-SUMMARY:<p>\n  First day of spring semester classes. Refer to 
+ Student Business Services for the <a href="https:
+ //sbs.tamu.edu/accounts-billing/student-information/withdrawing/" 
+ target="_blank" rel="noopener">Refund Policy for Withdrawals and Dropped 
+ Courses</a>.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240116T060000Z-294728@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:First Day of Classes
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240116
+DTEND;VALUE=DATE:20240117
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192210Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294684-5-pm-tuition-rebate-application
+ -deadline-for-may
+X-LIVEWHALE-ID:294684
+X-LIVEWHALE-SUMMARY:<p>\n  5 p.m., Last day for May undergraduate degree 
+ candidates to apply for <a href="https:
+ //aggie.tamu.edu/graduation/tuition-rebate" target="_blank" 
+ rel="noopener">Tuition Rebate</a> in Howdy.\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240508T220000Z-294684@calendar.tamu.edu
+LAST-MODIFIED:20230615T192210Z
+SUMMARY:5 p.m.\, Tuition Rebate Application Deadline for May 2024 
+ Undergraduate Degree Candidates
+CATEGORIES:Academic Calendar
+DTSTART:20240508T220000Z
+DTEND:20240508T230000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294714-reading-day-no-classes
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294714
+X-LIVEWHALE-SUMMARY:<p>\n  Reading day, no classes. <em>Does not apply to 
+ clinical placements for the School of Nursing.</em>\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240329T050000Z-294714@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Reading Day - No Classes
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240330
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191344Z
+URL:https://calendar.tamu.edu/registrar/event/294721-spring-break
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294721
+X-LIVEWHALE-SUMMARY:<p>\n  Spring Break. No classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240313T050000Z-294721@calendar.tamu.edu
+LAST-MODIFIED:20230615T191344Z
+SUMMARY:Spring Break
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240313
+DTEND;VALUE=DATE:20240314
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240411T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240411
+DTEND;VALUE=DATE:20240412
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240330T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294694-muster-campus-ceremony
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294694
+X-LIVEWHALE-SUMMARY:<p>\n  Muster, Campus ceremony.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240421T050000Z-294694@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Muster\, Campus Ceremony
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240422
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240410T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240410
+DTEND;VALUE=DATE:20240411
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192243Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294681-commencement-and-commissioning-
+ college-station
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294681
+X-LIVEWHALE-SUMMARY:<p>\n  <a href="http://graduation.tamu.edu" 
+ target="_blank" rel="noopener">Commencement and Commissioning</a> for all 
+ degrees in College Station - additional details will be posted on <a 
+ href="http://graduation.tamu.edu" target="_blank" 
+ rel="noopener">graduation.tamu.edu</a> as they become available.\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240510T050000Z-294681@calendar.tamu.edu
+LAST-MODIFIED:20230615T192243Z
+SUMMARY:Commencement and Commissioning - College Station
+LOCATION:Reed Arena
+GEO:30.605854;-96.346214
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192220Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294683-6-pm-grades-due-for-may-2024-de
+ gree-candidates
+X-LIVEWHALE-ID:294683
+X-LIVEWHALE-SUMMARY:<p>\n  6 p.m., Grades due for all degree candidates 
+ to the Office of the Registrar. <em>Grades will be available for viewing 
+ in Howdy after 10 p.m.</em>\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240508T230000Z-294683@calendar.tamu.edu
+LAST-MODIFIED:20230615T192220Z
+SUMMARY:6 p.m.\, Grades Due for May 2024 Degree Candidates
+CATEGORIES:Academic Calendar
+DTSTART:20240508T230000Z
+DTEND:20240509T000000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192106Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294724-graduation-application-deadline
+ 
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294724
+X-LIVEWHALE-SUMMARY:<p>\n  Last day to apply for all degrees to be 
+ awarded in May without a late fee.\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240216T060000Z-294724@calendar.tamu.edu
+LAST-MODIFIED:20230615T192106Z
+SUMMARY:Graduation Application Deadline
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240216
+DTEND;VALUE=DATE:20240217
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294723-presidents-day-observed-bush-sc
+ hool-washington
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294723
+X-LIVEWHALE-SUMMARY:<p>\n  Presidents' Day. No classes held at the Bush 
+ School Washington, D.C. site.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240219T060000Z-294723@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:President's Day observed - Bush School Washington\, D.C. site
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240219
+DTEND;VALUE=DATE:20240220
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191344Z
+URL:https://calendar.tamu.edu/registrar/event/294721-spring-break
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294721
+X-LIVEWHALE-SUMMARY:<p>\n  Spring Break. No classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240314T050000Z-294721@calendar.tamu.edu
+LAST-MODIFIED:20230615T191344Z
+SUMMARY:Spring Break
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240314
+DTEND;VALUE=DATE:20240315
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294689-reading-day-no-classes
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294689
+X-LIVEWHALE-SUMMARY:<p>\n  Reading day, no classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240501T050000Z-294689@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Reading Day - No Classes
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230731T164457Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294680-commencement-and-commissioning-
+ galveston
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294680
+X-LIVEWHALE-SUMMARY:<p>\n  <a href="http://graduation.tamu.edu" 
+ target="_blank" rel="noopener" data-cke-saved-href="http:
+ //graduation.tamu.edu">Commencement</a> - All Degrees in 
+ Galveston.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240510T050000Z-294680@calendar.tamu.edu
+LAST-MODIFIED:20230731T164457Z
+SUMMARY:Commencement and Commissioning - Galveston
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191344Z
+URL:https://calendar.tamu.edu/registrar/event/294721-spring-break
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294721
+X-LIVEWHALE-SUMMARY:<p>\n  Spring Break. No classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240312T050000Z-294721@calendar.tamu.edu
+LAST-MODIFIED:20230615T191344Z
+SUMMARY:Spring Break
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240312
+DTEND;VALUE=DATE:20240313
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191344Z
+URL:https://calendar.tamu.edu/registrar/event/294721-spring-break
+X-LIVEWHALE-ID:294721
+X-LIVEWHALE-SUMMARY:<p>\n  Spring Break. No classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240315T050000Z-294721@calendar.tamu.edu
+LAST-MODIFIED:20230615T191344Z
+SUMMARY:Spring Break
+CATEGORIES:Academic Calendar
+DTSTART:20240315T050000Z
+DTEND:20240315T060000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240408T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240408
+DTEND;VALUE=DATE:20240409
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192043Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294725-undergraduate-change-of-curricu
+ lum-deadline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294725
+X-LIVEWHALE-SUMMARY:<p>\n  Undergraduate deadline to submit a request for 
+ change of curriculum.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240212T060000Z-294725@calendar.tamu.edu
+LAST-MODIFIED:20230615T192043Z
+SUMMARY:Undergraduate Change of Curriculum Deadline
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240213
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294676-undergraduate-change-of-curricu
+ lum
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294676
+X-LIVEWHALE-SUMMARY:<p>\n  Undergraduate change of curriculum period 
+ begins. See <a href="https://student-rules.tamu.edu/rule05/">Student Rule 
+ 5.1</a>.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240514T050000Z-294676@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Undergraduate Change of Curriculum
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240514
+DTEND;VALUE=DATE:20240515
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191432Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294697-5-pm-q-drop-deadline
+X-LIVEWHALE-ID:294697
+X-LIVEWHALE-SUMMARY:<p>\n  5 p.m., Last day for all students to drop 
+ courses with no penalty (Q-drop).\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240416T220000Z-294697@calendar.tamu.edu
+LAST-MODIFIED:20230615T191432Z
+SUMMARY:5 p.m.\, Q-Drop Deadline
+CATEGORIES:Academic Calendar
+DTSTART:20240416T220000Z
+DTEND:20240416T230000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240403T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240404
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192243Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294681-commencement-and-commissioning-
+ college-station
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294681
+X-LIVEWHALE-SUMMARY:<p>\n  <a href="http://graduation.tamu.edu" 
+ target="_blank" rel="noopener">Commencement and Commissioning</a> for all 
+ degrees in College Station - additional details will be posted on <a 
+ href="http://graduation.tamu.edu" target="_blank" 
+ rel="noopener">graduation.tamu.edu</a> as they become available.\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240509T050000Z-294681@calendar.tamu.edu
+LAST-MODIFIED:20230615T192243Z
+SUMMARY:Commencement and Commissioning - College Station
+LOCATION:Reed Arena
+GEO:30.605854;-96.346214
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240509
+DTEND;VALUE=DATE:20240510
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T215657Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294741-graduation-application-open-for
+ -spring-2024-degree
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294741
+X-LIVEWHALE-SUMMARY:<p>\n  Graduation Application opens for all students 
+ planning to graduate in <strong>May 2024</strong>.<br />\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20231218T060000Z-294741@calendar.tamu.edu
+LAST-MODIFIED:20230606T215657Z
+SUMMARY:Graduation Application Open for Spring 2024 Degree Candidates
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20231218
+DTEND;VALUE=DATE:20231219
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240328T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240329
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192158Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294698-5-pm-spring-2024-withdrawal-dea
+ dline
+X-LIVEWHALE-ID:294698
+X-LIVEWHALE-SUMMARY:<p>\n  5 p.m., Last day to officially withdraw from 
+ the University.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240416T220000Z-294698@calendar.tamu.edu
+LAST-MODIFIED:20230615T192158Z
+SUMMARY:5 p.m.\, Spring 2024 Withdrawal Deadline
+CATEGORIES:Academic Calendar
+DTSTART:20240416T220000Z
+DTEND:20240416T230000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191447Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294722-12-pm-mid-semester-grades-due
+X-LIVEWHALE-ID:294722
+X-LIVEWHALE-SUMMARY:<p>\n  Mid-semester grades due.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240304T180000Z-294722@calendar.tamu.edu
+LAST-MODIFIED:20230615T191447Z
+SUMMARY:12 p.m.\, Mid-semester Grades Due
+CATEGORIES:Academic Calendar
+DTSTART:20240304T180000Z
+DTEND:20240304T190000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191344Z
+URL:https://calendar.tamu.edu/registrar/event/294721-spring-break
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294721
+X-LIVEWHALE-SUMMARY:<p>\n  Spring Break. No classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240311T050000Z-294721@calendar.tamu.edu
+LAST-MODIFIED:20230615T191344Z
+SUMMARY:Spring Break
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240311
+DTEND;VALUE=DATE:20240312
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240329T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240330
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240407T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240407
+DTEND;VALUE=DATE:20240408
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240404T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240404
+DTEND;VALUE=DATE:20240405
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192253Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294677-12-pm-final-grades-due-spring-2
+ 024
+X-LIVEWHALE-ID:294677
+X-LIVEWHALE-SUMMARY:<p>\n  12 p.m. (noon), Final grades for all students 
+ due to the Office of the Registrar. <em>Grades will be available for 
+ viewing in Howdy after 5 p.m.</em>\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240513T170000Z-294677@calendar.tamu.edu
+LAST-MODIFIED:20230615T192253Z
+SUMMARY:12 p.m.\, Final Grades Due - Spring 2024
+CATEGORIES:Academic Calendar
+DTSTART:20240513T170000Z
+DTEND:20240513T180000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191422Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294696-5-pm-last-day-to-change-kine-19
+ 8199-grade-type-for
+X-LIVEWHALE-ID:294696
+X-LIVEWHALE-SUMMARY:<p>\n  5 p.m., Last day to change KINE 198/199 Grade 
+ Type for spring 2024.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240416T220000Z-294696@calendar.tamu.edu
+LAST-MODIFIED:20230615T191422Z
+SUMMARY:5 p.m.\, Last Day to Change KINE 198/199 Grade Type for Spring 
+ 2024
+CATEGORIES:Academic Calendar
+DTSTART:20240416T220000Z
+DTEND:20240416T230000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294729-martin-luther-king-jr-day
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294729
+X-LIVEWHALE-SUMMARY:<p>\n  Martin Luther King, Jr. Day. Faculty and Staff 
+ Holiday.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240115T060000Z-294729@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Martin Luther King\, Jr. Day
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240115
+DTEND;VALUE=DATE:20240116
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294686-final-examinations-spring-2024
+ 
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294686
+X-LIVEWHALE-SUMMARY:<p>\n  Spring semester <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/final-examination-schedu
+ les" target="_blank" rel="noopener">final examinations</a> for all 
+ students.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240506T050000Z-294686@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Final Examinations - Spring 2024
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240506
+DTEND;VALUE=DATE:20240507
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192243Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294681-commencement-and-commissioning-
+ college-station
+X-LIVEWHALE-ID:294681
+X-LIVEWHALE-SUMMARY:<p>\n  <a href="http://graduation.tamu.edu" 
+ target="_blank" rel="noopener">Commencement and Commissioning</a> for all 
+ degrees in College Station - additional details will be posted on <a 
+ href="http://graduation.tamu.edu" target="_blank" 
+ rel="noopener">graduation.tamu.edu</a> as they become available.\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240511T050000Z-294681@calendar.tamu.edu
+LAST-MODIFIED:20230615T192243Z
+SUMMARY:Commencement and Commissioning - College Station
+LOCATION:Reed Arena
+GEO:30.605854;-96.346214
+CATEGORIES:Academic Calendar
+DTSTART:20240511T050000Z
+DTEND:20240511T060000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T192034Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294730-5-pm-last-day-to-register-for-c
+ lasses
+X-LIVEWHALE-ID:294730
+X-LIVEWHALE-SUMMARY:<p>\n  5 p.m., Last day to register for spring 
+ semester classes. Refer to <a href="https:
+ //sbs.tamu.edu/resources/important-dates/" target="_blank" 
+ rel="noopener">Student Business Services</a> for tuition and fee due 
+ dates.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240112T230000Z-294730@calendar.tamu.edu
+LAST-MODIFIED:20230615T192034Z
+SUMMARY:5 p.m.\, Last Day to Register for Classes
+CATEGORIES:Academic Calendar
+DTSTART:20240112T230000Z
+DTEND:20240113T000000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240402T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240402
+DTEND;VALUE=DATE:20240403
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240405T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240405
+DTEND;VALUE=DATE:20240406
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T193620Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294695-5-pm-degree-requirement-verific
+ ation-deadline
+X-LIVEWHALE-ID:294695
+X-LIVEWHALE-SUMMARY:<p>\n  5 p.m., Spring 2024 Degree Candidates: <a 
+ href="https://aggie.tamu.edu/graduation/degree-requirement-verification" 
+ target="_blank" rel="noopener">Degree Requirement Verification (DRV)</a> 
+ deadline per <a href="https://student-rules.tamu.edu/rule14/#:~:
+ text=14.2%20To%20be%20a%20candidate,at%20another%20college%20or%20universi
+ ty" target="_blank" rel="noopener">Student Rule 14.2</a>\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240416T220000Z-294695@calendar.tamu.edu
+LAST-MODIFIED:20230615T193620Z
+SUMMARY:5 p.m.\, Degree Requirement Verification Deadline
+CATEGORIES:Academic Calendar
+DTSTART:20240416T220000Z
+DTEND:20240416T230000Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240401T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240402
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294692-spring-redefined-day
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294692
+X-LIVEWHALE-SUMMARY:<p>\n  Redefined day, students attend their 
+ <strong>Friday</strong> classes. Does not apply to programs offered by 
+ the School of Nursing. Students at Bush School Washington, D.C. site 
+ attend Monday Classes. Pursuant to <a href="http:
+ //student-rules.tamu.edu/rule08" target="_blank" rel="noopener">Student 
+ Rule 8.3</a>, no regular course examinations (except for laboratory and 
+ one-hour courses) shall be given during the 15th week of classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240430T050000Z-294692@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:Spring Redefined Day
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T193613Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294716-last-day-to-apply-spring-gradua
+ tion
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294716
+X-LIVEWHALE-SUMMARY:<p>\n  Last day to apply for spring 2024 graduation 
+ online.\n</p>
+X-LIVEWHALE-TAGS:Graduation-Spring 2024|Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240327T050000Z-294716@calendar.tamu.edu
+LAST-MODIFIED:20230615T193613Z
+SUMMARY:Last Day to Apply - Spring Graduation
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240328
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230606T164359Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294693-no-regular-course-examinations-
+ except-for
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294693
+X-LIVEWHALE-SUMMARY:<p>\n  Pursuant to <a href="http:
+ //student-rules.tamu.edu/rule08" target="_blank" rel="noopener">Student 
+ Rule 8.3</a>, no regular course examinations (except for laboratory and 
+ one-hour courses) shall be given during the 15th week of classes.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240429T050000Z-294693@calendar.tamu.edu
+LAST-MODIFIED:20230606T164359Z
+SUMMARY:No Regular Course Examinations (Except for Laboratory &amp\; 
+ 1-Hour Courses)
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240430
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191350Z
+URL:https://calendar.tamu.edu/registrar/event/294715-preregistration
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294715
+X-LIVEWHALE-SUMMARY:Preregistration for the 2024 first term, second term, 
+ 10-week summer semester and fall semester.<br />\n<ul>\n  <li>\n    <a 
+ href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /undergraduate-registration-schedules" target="_blank" 
+ rel="noopener">Undergraduate Students Registration Schedule</a>\n  
+ </li>\n  <li>\n    <a href="https:
+ //aggie.tamu.edu/registration-and-records/classes/registration-information
+ /graduate-and-professional-student-registration-schedules" 
+ target="_blank" rel="noopener">Graduate and Professional Students 
+ Registration Schedule</a>\n  </li>\n</ul>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240331T050000Z-294715@calendar.tamu.edu
+LAST-MODIFIED:20230615T191350Z
+SUMMARY:Preregistration
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240401
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230615T191337Z
+URL:https:
+ //calendar.tamu.edu/registrar/event/294727-last-day-to-adddrop-courses
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-ID:294727
+X-LIVEWHALE-SUMMARY:<p>\n  Last day for adding/dropping courses for the 
+ spring semester.\n</p>
+X-LIVEWHALE-TAGS:Spring 2024
+X-LIVEWHALE-TIMEZONE:America/Chicago
+X-LIVEWHALE-TYPE:events
+CREATED:20230902T042207Z
+UID:20240122T060000Z-294727@calendar.tamu.edu
+LAST-MODIFIED:20230615T191337Z
+SUMMARY:Last Day to Add/Drop Courses
+CATEGORIES:Academic Calendar
+DTSTART;VALUE=DATE:20240122
+DTEND;VALUE=DATE:20240123
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

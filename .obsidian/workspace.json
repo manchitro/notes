@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "bcdee350b1844dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c50b933fba09cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae3c1a74deb10ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim/Intellij 'select and search' broken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eee508b0e8e4d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec72967d92fe5baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab26b302d152ccc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c34d46af0e6fe8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "477b15460fab0c42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8b80d9988e69760",
+    "type": "split",
+    "children": [
+      {
+        "id": "469a3b6a7739b162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8661764e5230158d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vim/Intellij 'select and search' broken.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cceb2030a6fbe57c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vim/Intellij 'select and search' broken.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d825916f685924c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79de8f6d42bb1454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vim/Intellij 'select and search' broken.md"
+              }
+            }
+          },
+          {
+            "id": "2cb48d5f37ea5bae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b56dcf5ae84fd0de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dae3c1a74deb10ee",
+  "lastOpenFiles": [
+    "Vim/Intellij 'select and search' broken.md",
+    "Vim/obsidian editor font size shortcut.md",
+    "Papers/AI+HCI/Artificial Intelligence for HCI A Modern Approach 2020.pdf",
+    "Vim",
+    "IELTS/10-answers/Test 1/1-Listening.md",
+    "Orion/AST/Controls.md",
+    "IELTS/10-answers/Test 1",
+    "IELTS/10-answers",
+    "Orion/Untitled.md",
+    "Orion/AST/MFA/MFA-XSS-Fix.md",
+    "Thesis/Cauliflower/YOLO-VEGNET Exp Results.md",
+    "Thesis/Cauliflower/MFA Code review.md",
+    "Orion/AST/MFA",
+    "Thesis/ObjDet/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.pdf",
+    "Thesis/Cauliflower/attachments/Pasted image 20231222023933.png",
+    "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png",
+    "Thesis/GLD-Det.pdf",
+    "Thesis/Cauliflower/papers/Cauliflower-Disease-Recognition-maria.pdf",
+    "Thesis/agronomy-13-02240-v2.pdf",
+    "Thesis/Cauliflower/Cauliflower SLR.md",
+    "Thesis/Cauliflower/papers/A comprehensive investigation to cauliflower diseases recognition.pdf",
+    "Wedding/attachments/overview_image_13190958_14286319.png",
+    "Wedding/Suit Notes.md",
+    "Wedding/attachments/Screenshot_20231124-161651~3.png",
+    "Thesis/Cauliflower/attachments/Pasted image 20231218002423.png",
+    "Thesis/Cauliflower/attachments/Pasted image 20231217180842.png",
+    "Thesis/Cauliflower/attachments/Pasted image 20231217175015.png",
+    "Thesis/Cauliflower/attachments/Pasted image 20231217163414.png",
+    "Thesis/Cauliflower/attachments/Pasted image 20231217163243.png",
+    "Thesis/Cauliflower/attachments/Pasted image 20231217162602.png",
+    "Thesis/Cauliflower/CDM-Net.md",
+    "Thesis/Segmentation Lit/Self-Supervised Skin Lesion Segmentation.md",
+    "Personal/NVIM.md",
+    "Personal/letter.md",
+    "NLP/23-92896-1_naive-bayes.md",
+    "NLP/Naive.md",
+    "NLP/23-92896-1_selected-papers.md",
+    "NLP/Levenshtein Distance.md",
+    "Orion/Santiago/NPD-496 Impact.md",
+    "Orion/Santiago/NPD-493/Monologue.md",
+    "NLP/TODO.md",
+    "CBIS-MARL/Code Todo.md",
+    "Orion/Impacts.md",
+    "Orion/AP20-3693.md",
+    "Orion/Untitled 1.md",
+    "CBIS-MARL/Code Todo.sync-conflict-20230922-112837-OMGCGWW.md",
+    "Untitled.canvas"
+  ]
+}
