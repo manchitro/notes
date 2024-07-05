@@ -1,6 +1,7 @@
 #problems #todo 
+
 prerequisites: [[reload vimrc in Intellij]]
-	prerequisites: [[map key to shell command]]
+prerequisites: [[map key to shell command]]
 
 | before                               | after                                                                                                                                                           |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
