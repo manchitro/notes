@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8b80d9988e69760",
@@ -140,29 +141,13 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "b56dcf5ae84fd0de",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8a158927b95a8fd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +161,10 @@
   },
   "active": "5efe634a712431dd",
   "lastOpenFiles": [
-    "AI Safety/Research Taste Exercises.md",
+    "AI Safety/attachments/the_sense_of_style.pdf",
+    "AI Safety/attachments/the_sense_of_style.pdf.crdownload",
     "AI Safety/How to become an AI safety researcher.md",
+    "AI Safety/Research Taste Exercises.md",
     "Efficiency/Try Anki.md",
     "Efficiency/Research as a Stochastic Decision Process.md",
     "Efficiency",
@@ -191,7 +178,6 @@
     "AI Safety",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
-    "Papers/AI+HCI/Artificial Intelligence for HCI A Modern Approach 2020.pdf",
     "IELTS/10-answers/Test 1/1-Listening.md",
     "Orion/AST/Controls.md",
     "Orion/Untitled.md",
@@ -221,7 +207,6 @@
     "Orion/Santiago/NPD-496 Impact.md",
     "Orion/Santiago/NPD-493/Monologue.md",
     "NLP/TODO.md",
-    "CBIS-MARL/Code Todo.md",
     "Untitled.canvas"
   ]
 }

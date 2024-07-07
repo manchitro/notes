@@ -1,7 +1,6 @@
 [source: original article](https://www.lesswrong.com/posts/uKPtCoDesfawNfyJg/how-to-become-an-ai-safety-researcher) 
 # Paths into AI safety
 ## What degrees did people get?
-- - - 
 - Mostly Mathematics and Computer Science.
 - Research as undergrads in related fields
 - [[Effective Altruism]] and [[Rationality as a discipline]]
@@ -11,7 +10,6 @@
 	- [[human_compatible.pdf|Human Compatible]]
 	- [[Christian-Alignment-Problem-Intro-and-Ch1.pdf|The Alignment Problem]]
 ## Skills
-- - -
 ### Technical skills
 - programming
 - mathematics (for theoretical work)
@@ -43,10 +41,30 @@ Also read [[Research as a Stochastic Decision Process]]
 Also read [[Research Taste Exercises]]
 Also read [How To Get Into Independent Research On Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
 - - -
-#### **Become comfortable working in a pre-paradigmatic field**
+## **Become comfortable working in a pre-paradigmatic field**
 AI safety is often called a [pre-paradigmatic field](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency#Preparadigmicity), where there aren’t established frameworks or an established canon of facts.
 > RL, NLP, and robustness are less pre-paradigmatic.
 - find an experienced mentor
 - stuck on a problem? divide and conquer
 - increase credibility by coming up with grounded examples
+- theories should be generalized, not ad-hoc
+- try to apply knowledge from broad range of fields to solve problems
+- while working on small problems occasionally zoom out to review high-level goals
+## Formalizing Intuitions
+- Translate informal models into math or code
+- This helps with precisely defining and testing theories/intuitions
+## Making deliverables
+- In order to make independent research, readable there should deliverables such as
+	- blog posts
+	- github repos
+	- research proposals
+	- anything that can be put on a portfolio
+- Quality over quantity of work
+- - - 
+- Also read [[the_sense_of_style.pdf|Pinker’s 'The Sense of Style']]
+- Also watch [LEADERSHIP LAB: The Craft of Writing Effectively ](https://www.youtube.com/@UChicagoSSD)
+- - -
+## Specific paths taken by people
+### John Wentworth
+- Nature of [Agency](https://plato.stanford.edu/entries/agency/)
 - 
