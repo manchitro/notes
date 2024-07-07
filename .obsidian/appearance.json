@@ -4,7 +4,8 @@
     "img-border"
   ],
   "textFontFamily": "",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "theme": "obsidian",
-  "cssTheme": ""
+  "cssTheme": "",
+  "baseFontSizeAction": true
 }

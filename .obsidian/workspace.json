@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac8e8bd0819052a",
+        "id": "c70fac107a70657e",
         "type": "tabs",
         "children": [
           {
-            "id": "abcadd61dfaf47ce",
+            "id": "5efe634a712431dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "AI Safety/How to become an AI safety researcher.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,14 +148,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "c8a158927b95a8fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abcadd61dfaf47ce",
+  "active": "5efe634a712431dd",
   "lastOpenFiles": [
+    "AI Safety/Research Taste Exercises.md",
+    "AI Safety/How to become an AI safety researcher.md",
+    "Efficiency/Try Anki.md",
+    "Efficiency/Research as a Stochastic Decision Process.md",
+    "Efficiency",
     "AI Safety/attachments/Christian-Alignment-Problem-Intro-and-Ch1.pdf",
     "AI Safety/attachments/Christian-Alignment-Problem-Intro-and-Ch1.pdf.crdownload",
     "AI Safety/attachments/human_compatible.pdf",
@@ -176,15 +188,12 @@
     "AI Safety/attachments/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf",
     "AI Safety/attachments/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf.crdownload",
     "AI Safety/attachments",
-    "AI Safety/How to become an AI safety researcher.md",
     "AI Safety",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
     "Papers/AI+HCI/Artificial Intelligence for HCI A Modern Approach 2020.pdf",
-    "Vim",
     "IELTS/10-answers/Test 1/1-Listening.md",
     "Orion/AST/Controls.md",
-    "IELTS/10-answers/Test 1",
     "Orion/Untitled.md",
     "Orion/AST/MFA/MFA-XSS-Fix.md",
     "Thesis/Cauliflower/YOLO-VEGNET Exp Results.md",
@@ -213,8 +222,6 @@
     "Orion/Santiago/NPD-493/Monologue.md",
     "NLP/TODO.md",
     "CBIS-MARL/Code Todo.md",
-    "Orion/Impacts.md",
-    "Orion/AP20-3693.md",
     "Untitled.canvas"
   ]
 }

@@ -12,7 +12,7 @@
 	- [[Christian-Alignment-Problem-Intro-and-Ch1.pdf|The Alignment Problem]]
 ## Skills
 - - -
-Technical skills
+### Technical skills
 - programming
 - mathematics (for theoretical work)
 	- linear algebra
@@ -33,3 +33,20 @@ Technical skills
 		- Areas of philosophy, specifically in philosophy of science, meaning and reference, knowledge (although this might be a minority view)
 		- Dynamical systems and equilibria (possibly related to biology)
 		- Cybernetics and information theory
+	- A definition of 'good' on a societal level
+	- Also read Andrew Critch’s [post on power dynamics](https://www.lesswrong.com/posts/WjsyEBHgSstgfXTvm/power-dynamics-as-a-blind-spot-or-blurry-spot-in-our)
+		- Prerequisite: [ARCHES: AI Research Considerations for Human Existential Safety](http://acritch.com/arches/)
+	- Complex systems, economics, finance, business
+- - -
+Also [[Try Anki]]
+Also read [[Research as a Stochastic Decision Process]]
+Also read [[Research Taste Exercises]]
+Also read [How To Get Into Independent Research On Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
+- - -
+#### **Become comfortable working in a pre-paradigmatic field**
+AI safety is often called a [pre-paradigmatic field](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency#Preparadigmicity), where there aren’t established frameworks or an established canon of facts.
+> RL, NLP, and robustness are less pre-paradigmatic.
+- find an experienced mentor
+- stuck on a problem? divide and conquer
+- increase credibility by coming up with grounded examples
+- 
