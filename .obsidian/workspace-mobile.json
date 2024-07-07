@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workout/Routine Improvements.md",
-                "mode": "source",
+                "file": "AI Safety/How to become an AI safety researcher.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Workout/Routine Improvements.md",
+            "file": "AI Safety/How to become an AI safety researcher.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Workout/Routine Improvements.md",
+            "file": "AI Safety/How to become an AI safety researcher.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Workout/Routine Improvements.md"
+            "file": "AI Safety/How to become an AI safety researcher.md"
           }
         }
       },
@@ -151,10 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ab610c8ff346570",
+  "active": "3af0b0619f277adb",
   "lastOpenFiles": [
-    "Workout/Questions.md",
+    "AI Safety/Agency and Agents.md",
+    "AI Safety/How to become an AI safety researcher.md",
     "Workout/Routine Improvements.md",
+    "Workout/Questions.md",
     "Personal/Bazar List.md",
     "Nix/nix-configuration.md",
     "Image Processing/papers/TODO.md",
@@ -197,8 +199,6 @@
     "Robin/banana_lit_review.txt.md",
     "Priya/Masters programs.md",
     "Personal/Linux/Setup Steps.md",
-    "Personal/Kuakata.md",
-    "Personal/Passport renew checklist.md",
-    "Personal/মো. মহির উদ্দিন.md"
+    "Personal/Kuakata.md"
   ]
 }
