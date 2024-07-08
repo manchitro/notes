@@ -67,4 +67,4 @@ AI safety is often called a [pre-paradigmatic field](https://www.lesswrong.com/
 ## Specific paths taken by people
 ### John Wentworth
 - Nature of [Agency](https://plato.stanford.edu/entries/agency/)
-- 
+	- [[Agency and Agents]]
