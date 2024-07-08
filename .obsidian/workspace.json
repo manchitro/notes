@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Safety/How to become an AI safety researcher.md",
-                "mode": "source",
+                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8b80d9988e69760",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Safety/How to become an AI safety researcher.md",
+                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Safety/How to become an AI safety researcher.md",
+                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Safety/How to become an AI safety researcher.md"
+                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md"
               }
             }
           },
@@ -161,9 +160,11 @@
   },
   "active": "5efe634a712431dd",
   "lastOpenFiles": [
+    "AI Safety/How to become an AI safety researcher.md",
+    "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
+    "Orion",
     "AI Safety/attachments/the_sense_of_style.pdf",
     "AI Safety/attachments/the_sense_of_style.pdf.crdownload",
-    "AI Safety/How to become an AI safety researcher.md",
     "AI Safety/Research Taste Exercises.md",
     "Efficiency/Try Anki.md",
     "Efficiency/Research as a Stochastic Decision Process.md",
@@ -174,13 +175,10 @@
     "AI Safety/attachments/human_compatible.pdf.crdownload",
     "AI Safety/attachments/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf",
     "AI Safety/attachments/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf.crdownload",
-    "AI Safety/attachments",
-    "AI Safety",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
     "IELTS/10-answers/Test 1/1-Listening.md",
     "Orion/AST/Controls.md",
-    "Orion/Untitled.md",
     "Orion/AST/MFA/MFA-XSS-Fix.md",
     "Thesis/Cauliflower/YOLO-VEGNET Exp Results.md",
     "Thesis/Cauliflower/MFA Code review.md",
