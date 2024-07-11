@@ -1,4 +1,6 @@
 [source: original article](https://www.lesswrong.com/posts/uKPtCoDesfawNfyJg/how-to-become-an-ai-safety-researcher) 
+author's [website](https://peterbarnett.org/), [[CV_PeterBarnett.pdf|CV]]
+- - -
 # Paths into AI safety
 ## What degrees did people get?
 - Mostly Mathematics and Computer Science.
@@ -68,3 +70,16 @@ AI safety is often called a [pre-paradigmatic field](https://www.lesswrong.com/
 ### John Wentworth
 - Nature of [Agency](https://plato.stanford.edu/entries/agency/)
 	- [[Agency and Agents]]
+- Also read: [How To Get Into Independent Research On Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
+- Also watch: [Ep. 158: abstraction and agency | John Wentworth](https://www.youtube.com/watch?v=49m5AwqNdHc "Ep. 158: abstraction and agency | John Wentworth")
+### Alex Turner
+- Also read: [[hpmor.pdf|Harry Potter and the Methods of Rationality]]
+- [A Guide to MIRI’s Research](https://intelligence.org/research-guide/)
+	- [Alignment Research Field Guide](https://www.lesswrong.com/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide)
+	- [How To Get Into Independent Research On Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
+- [My journey through the MIRI research guide.](https://www.lesswrong.com/s/KGYLvTqFiFE2CpHfJ)
+- - -
+# More reading
+- [[Precis-of-The-Limits-of-Morality-1344xg3.pdf|The Limits of Morality]]
+- [[1805.00899v2.pdf|AI safety via debate]] (paper)
+- [Original Sequences](https://www.lesswrong.com/tag/original-sequences)

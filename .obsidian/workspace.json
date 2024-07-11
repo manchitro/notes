@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c70fac107a70657e",
+        "id": "3d105357d2fcdfe5",
         "type": "tabs",
         "children": [
           {
-            "id": "5efe634a712431dd",
+            "id": "65ebbeb190b216b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
-                "mode": "preview",
+                "file": "AI Safety/How to become an AI safety researcher.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4d2db306396b21c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c8b80d9988e69760",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
+                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
+                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md"
+                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf"
               }
             }
           },
@@ -146,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,24 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5efe634a712431dd",
+  "active": "d4d2db306396b21c",
   "lastOpenFiles": [
-    "AI Safety/Agency and Agents.md",
     "AI Safety/How to become an AI safety researcher.md",
+    "AI Safety/attachments/1805.00899v2.pdf",
+    "AI Safety/attachments/1805.00899v2.pdf.crdownload",
+    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
+    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf.crdownload",
+    "AI Safety/attachments/hpmor.pdf",
+    "AI Safety/attachments/hpmor.pdf.crdownload",
+    "AI Safety/attachments/CV_PeterBarnett.pdf",
+    "AI Safety/attachments/CV_PeterBarnett.pdf.crdownload",
     "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
+    "AI Safety/Agency and Agents.md",
     "Orion",
     "AI Safety/attachments/the_sense_of_style.pdf",
-    "AI Safety/attachments/the_sense_of_style.pdf.crdownload",
     "AI Safety/Research Taste Exercises.md",
     "Efficiency/Try Anki.md",
     "Efficiency/Research as a Stochastic Decision Process.md",
-    "Efficiency",
-    "AI Safety/attachments/Christian-Alignment-Problem-Intro-and-Ch1.pdf",
-    "AI Safety/attachments/Christian-Alignment-Problem-Intro-and-Ch1.pdf.crdownload",
-    "AI Safety/attachments/human_compatible.pdf",
-    "AI Safety/attachments/human_compatible.pdf.crdownload",
-    "AI Safety/attachments/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf",
-    "AI Safety/attachments/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf.crdownload",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
     "IELTS/10-answers/Test 1/1-Listening.md",
@@ -205,7 +216,6 @@
     "NLP/Levenshtein Distance.md",
     "Orion/Santiago/NPD-496 Impact.md",
     "Orion/Santiago/NPD-493/Monologue.md",
-    "NLP/TODO.md",
     "Untitled.canvas"
   ]
 }
