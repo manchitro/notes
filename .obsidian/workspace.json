@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3d105357d2fcdfe5",
+        "id": "e87e3a2f2cca080f",
         "type": "tabs",
         "children": [
           {
-            "id": "65ebbeb190b216b9",
+            "id": "ae0924f4bcf67312",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Safety/How to become an AI safety researcher.md",
-                "mode": "source",
+                "file": "CSE Core Courses.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d4d2db306396b21c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
+                "file": "CSE Core Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
+                "file": "CSE Core Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf"
+                "file": "CSE Core Courses.md"
               }
             }
           },
@@ -169,12 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d2db306396b21c",
+  "active": "ae0924f4bcf67312",
   "lastOpenFiles": [
+    "CSE Core Courses.md",
+    "CityU",
     "AI Safety/How to become an AI safety researcher.md",
+    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
     "AI Safety/attachments/1805.00899v2.pdf",
     "AI Safety/attachments/1805.00899v2.pdf.crdownload",
-    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
     "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf.crdownload",
     "AI Safety/attachments/hpmor.pdf",
     "AI Safety/attachments/hpmor.pdf.crdownload",
@@ -183,7 +174,6 @@
     "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "AI Safety/Agency and Agents.md",
     "Orion",
-    "AI Safety/attachments/the_sense_of_style.pdf",
     "AI Safety/Research Taste Exercises.md",
     "Efficiency/Try Anki.md",
     "Efficiency/Research as a Stochastic Decision Process.md",

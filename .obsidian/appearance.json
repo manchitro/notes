@@ -3,8 +3,8 @@
   "enabledCssSnippets": [
     "img-border"
   ],
-  "textFontFamily": "",
-  "baseFontSize": 18,
+  "textFontFamily": "Arial,Georgia",
+  "baseFontSize": 15,
   "theme": "obsidian",
   "cssTheme": "",
   "baseFontSizeAction": true
