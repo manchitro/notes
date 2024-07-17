@@ -26,5 +26,6 @@ Since cache is almost a week old, it should automatically update whenever widget
 - Cache is only updated manually
 SP used to generate Tabulation Cache is: `uspCacheTabulationByCampaignID` which is called when 
 - ***Create Meeting Tabulation Cache*** button is called on a meeting tools page
+	- Cache refresh was executed at `2024-07-17 11:49:28 -05:00` and still running
 - There is a scheduled job which calls `uspCacheTabulation` (for all campaigns) everyday at 2 AM.
 	- As well as for updating vote tracking cache: `uspCacheTabulationByCampaignID`
