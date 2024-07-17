@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE Core Courses.md",
+                "file": "Orion/Issuer Portal Widget Cache Bug.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE Core Courses.md",
+                "file": "Orion/Issuer Portal Widget Cache Bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE Core Courses.md",
+                "file": "Orion/Issuer Portal Widget Cache Bug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE Core Courses.md"
+                "file": "Orion/Issuer Portal Widget Cache Bug.md"
               }
             }
           },
@@ -160,6 +160,11 @@
   },
   "active": "ae0924f4bcf67312",
   "lastOpenFiles": [
+    "Orion/attachments/Results.md",
+    "Orion/Issuer Portal Widget Cache Bug.md",
+    "Orion/attachments",
+    "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
+    "Orion/Meeting Dropdown Date Mismatch.md",
     "CSE Core Courses.md",
     "CityU",
     "AI Safety/How to become an AI safety researcher.md",
@@ -171,9 +176,7 @@
     "AI Safety/attachments/hpmor.pdf.crdownload",
     "AI Safety/attachments/CV_PeterBarnett.pdf",
     "AI Safety/attachments/CV_PeterBarnett.pdf.crdownload",
-    "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "AI Safety/Agency and Agents.md",
-    "Orion",
     "AI Safety/Research Taste Exercises.md",
     "Efficiency/Try Anki.md",
     "Efficiency/Research as a Stochastic Decision Process.md",
@@ -203,9 +206,6 @@
     "NLP/23-92896-1_naive-bayes.md",
     "NLP/Naive.md",
     "NLP/23-92896-1_selected-papers.md",
-    "NLP/Levenshtein Distance.md",
-    "Orion/Santiago/NPD-496 Impact.md",
-    "Orion/Santiago/NPD-493/Monologue.md",
     "Untitled.canvas"
   ]
 }
