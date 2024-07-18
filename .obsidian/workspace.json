@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6301cb8cfe5d106e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orion/Issuer Portal Widget Cache Bug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae0924f4bcf67312",
+  "active": "6301cb8cfe5d106e",
   "lastOpenFiles": [
-    "Orion/attachments/Results.md",
+    "Orion/Flowchart for Tabulation Cache.md",
     "Orion/Issuer Portal Widget Cache Bug.md",
+    "Orion/attachments/Results.md",
     "Orion/attachments",
     "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "Orion/Meeting Dropdown Date Mismatch.md",
@@ -205,7 +219,6 @@
     "Personal/letter.md",
     "NLP/23-92896-1_naive-bayes.md",
     "NLP/Naive.md",
-    "NLP/23-92896-1_selected-papers.md",
     "Untitled.canvas"
   ]
 }
