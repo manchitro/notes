@@ -7,5 +7,6 @@
   "baseFontSize": 15,
   "theme": "obsidian",
   "cssTheme": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showViewHeader": true
 }

@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "e87e3a2f2cca080f",
+        "id": "ff6f016f09795134",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0924f4bcf67312",
+            "id": "a7b3170f20a481e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
+                "file": "Orion/Data Source Tracking for tblTabulationCache.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "6301cb8cfe5d106e",
+            "id": "60ca58efc913c8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
-                "mode": "source",
-                "source": false
+                "file": "Orion/attachments/Results.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
+                "file": "Orion/attachments/Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
+                "file": "Orion/attachments/Results.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md"
+                "file": "Orion/attachments/Results.md"
               }
             }
           },
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,18 +169,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6301cb8cfe5d106e",
+  "active": "60ca58efc913c8f6",
   "lastOpenFiles": [
-    "Orion/Flowchart for Tabulation Cache.md",
+    "Orion/Data Source Tracking for tblTabulationCache.md",
+    "Orion/CacheVoteFundSummaryData Flowchart.md",
+    "Orion/CacheTabulationByCampaignID Flowchart.md",
+    "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "Orion/Issuer Portal Widget Cache Bug.md",
+    "Orion/CacheVoteFundSummaryData Flowchart.md~",
+    "Orion/Untitled 1.md",
     "Orion/attachments/Results.md",
     "Orion/attachments",
-    "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "Orion/Meeting Dropdown Date Mismatch.md",
-    "CSE Core Courses.md",
+    "CityU/CSE Core Courses.md",
     "CityU",
     "AI Safety/How to become an AI safety researcher.md",
     "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
@@ -189,7 +195,6 @@
     "AI Safety/attachments/hpmor.pdf",
     "AI Safety/attachments/hpmor.pdf.crdownload",
     "AI Safety/attachments/CV_PeterBarnett.pdf",
-    "AI Safety/attachments/CV_PeterBarnett.pdf.crdownload",
     "AI Safety/Agency and Agents.md",
     "AI Safety/Research Taste Exercises.md",
     "Efficiency/Try Anki.md",
@@ -215,10 +220,6 @@
     "Thesis/Cauliflower/attachments/Pasted image 20231217162602.png",
     "Thesis/Cauliflower/CDM-Net.md",
     "Thesis/Segmentation Lit/Self-Supervised Skin Lesion Segmentation.md",
-    "Personal/NVIM.md",
-    "Personal/letter.md",
-    "NLP/23-92896-1_naive-bayes.md",
-    "NLP/Naive.md",
     "Untitled.canvas"
   ]
 }

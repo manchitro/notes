@@ -29,17 +29,18 @@
   "workspace:next-tab": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
-      "key": "PageDown"
+      "key": "Tab"
     }
   ],
   "workspace:previous-tab": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod",
+        "Shift"
       ],
-      "key": "PageUp"
+      "key": "Tab"
     }
   ],
   "editor:toggle-numbered-list": [
@@ -123,5 +124,19 @@
       ],
       "key": "."
     }
-  ]
+  ],
+  "markdown:add-metadata-property": [],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:delete-paragraph": [],
+  "workspace:goto-last-tab": []
 }
