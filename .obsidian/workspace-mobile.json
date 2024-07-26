@@ -11,12 +11,8 @@
             "id": "5ab610c8ff346570",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Safety/How to become an AI safety researcher.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI Safety/How to become an AI safety researcher.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AI Safety/How to become an AI safety researcher.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "AI Safety/How to become an AI safety researcher.md"
-          }
+          "state": {}
         }
       },
       {
@@ -151,10 +143,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3af0b0619f277adb",
+  "active": "5ab610c8ff346570",
   "lastOpenFiles": [
-    "AI Safety/Agency and Agents.md",
+    "Priya/Attachment-2-PG-applicants-Candidate-Guide.pdf",
+    "Efficiency/Try Anki.md",
+    "Open Source/YouTube.md",
+    "Ideas/Govt. Controls the Internet.md",
+    "Open Source/Flud.md",
+    "Efficiency/Research as a Stochastic Decision Process.md",
+    "Ideas/Cognitive Philosophy and AI Safety.md",
     "AI Safety/How to become an AI safety researcher.md",
+    "Ideas",
+    "Open Source",
+    "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
+    "AI Safety/Agency and Agents.md",
     "Workout/Routine Improvements.md",
     "Workout/Questions.md",
     "Personal/Bazar List.md",
@@ -183,22 +185,12 @@
     "Thesis/Thesis-Book-Updated-2-1.docx",
     "Thesis/tableConvert.com_xfscay.csv",
     "Thesis/tableConvert.com_o3pcd6.csv",
-    "Thesis/tableConvert.com_bhy4xi.csv",
-    "Thesis/tableConvert.com_2dy6tg.csv",
     "Thesis/Segmentation Lit/Self-Supervised Skin Lesion Segmentation.md",
     "Thesis/Jute/Jute Disease Detection.md",
     "Thesis/Cauliflower/YOLO-VEGNET Exp Results.md",
     "Thesis/Cauliflower/MFA Code review.md",
     "Thesis/Cauliflower/CDM-Net.md",
     "Thesis/Cauliflower/Cauliflower SLR.md",
-    "Thesis/Mango Ripeness Detection.md",
-    "Robin/wheat_lit_review.txt.md",
-    "Robin/generic_lit_review.md",
-    "Robin/cassava_lit_review.txt.md",
-    "Robin/blackgram_lit_review.txt.md",
-    "Robin/banana_lit_review.txt.md",
-    "Priya/Masters programs.md",
-    "Personal/Linux/Setup Steps.md",
-    "Personal/Kuakata.md"
+    "Thesis/Mango Ripeness Detection.md"
   ]
 }

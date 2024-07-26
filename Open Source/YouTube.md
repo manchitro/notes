@@ -1,0 +1,1 @@
+Add subchapters to go chapters. Each subchapter will have a shade of a base color belonging to that corresponding chapter. 
