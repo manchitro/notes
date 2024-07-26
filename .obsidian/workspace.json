@@ -4,30 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6f016f09795134",
+        "id": "2206c37038e2224b",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b3170f20a481e1",
+            "id": "cd75fcd3009f83af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orion/Data Source Tracking for tblTabulationCache.md",
+                "file": "AI Safety/Natural Abstraction Hypothesis.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "60ca58efc913c8f6",
+            "id": "fbfb62dd49ee026b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Orion/attachments/Results.md",
-                "mode": "preview",
-                "source": true
+                "file": "AI Safety/Canvas.canvas",
+                "viewState": {
+                  "x": -460.04007154202554,
+                  "y": 20.51919976024595,
+                  "zoom": -1.521546441451183
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orion/attachments/Results.md",
+                "file": "AI Safety/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orion/attachments/Results.md",
+                "file": "AI Safety/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orion/attachments/Results.md"
+                "file": "AI Safety/Canvas.canvas"
               }
             }
           },
@@ -173,16 +176,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60ca58efc913c8f6",
+  "active": "fbfb62dd49ee026b",
   "lastOpenFiles": [
+    "AI Safety/Natural Abstraction Hypothesis.md",
+    "AI Safety/Canvas.canvas",
+    "AI Safety/attachments/2001.07573",
+    "Efficiency/Try Anki.md",
     "Orion/Data Source Tracking for tblTabulationCache.md",
+    "Efficiency/Research as a Stochastic Decision Process.md",
+    "AI Safety/Effective Altruism.md",
+    "Git/Git Credential Storage.perplexity.md",
+    "Orion/attachments/Results.md",
+    "Git",
+    "Open Source/YouTube.md",
+    "Open Source/Flud.md",
+    "Open Source",
+    "Ideas/Govt. Controls the Internet.md",
+    "Ideas/Cognitive Philosophy and AI Safety.md",
+    "Ideas",
     "Orion/CacheVoteFundSummaryData Flowchart.md",
     "Orion/CacheTabulationByCampaignID Flowchart.md",
     "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "Orion/Issuer Portal Widget Cache Bug.md",
     "Orion/CacheVoteFundSummaryData Flowchart.md~",
     "Orion/Untitled 1.md",
-    "Orion/attachments/Results.md",
     "Orion/attachments",
     "Orion/Meeting Dropdown Date Mismatch.md",
     "CityU/CSE Core Courses.md",
@@ -191,35 +208,21 @@
     "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
     "AI Safety/attachments/1805.00899v2.pdf",
     "AI Safety/attachments/1805.00899v2.pdf.crdownload",
-    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf.crdownload",
-    "AI Safety/attachments/hpmor.pdf",
-    "AI Safety/attachments/hpmor.pdf.crdownload",
-    "AI Safety/attachments/CV_PeterBarnett.pdf",
     "AI Safety/Agency and Agents.md",
     "AI Safety/Research Taste Exercises.md",
-    "Efficiency/Try Anki.md",
-    "Efficiency/Research as a Stochastic Decision Process.md",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
     "IELTS/10-answers/Test 1/1-Listening.md",
     "Orion/AST/Controls.md",
-    "Orion/AST/MFA/MFA-XSS-Fix.md",
-    "Thesis/Cauliflower/YOLO-VEGNET Exp Results.md",
-    "Thesis/Cauliflower/MFA Code review.md",
     "Thesis/Cauliflower/attachments/Pasted image 20231222023933.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png",
-    "Thesis/Cauliflower/Cauliflower SLR.md",
     "Wedding/attachments/overview_image_13190958_14286319.png",
-    "Wedding/Suit Notes.md",
     "Wedding/attachments/Screenshot_20231124-161651~3.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231218002423.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231217180842.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231217175015.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231217163414.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231217163243.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231217162602.png",
-    "Thesis/Cauliflower/CDM-Net.md",
-    "Thesis/Segmentation Lit/Self-Supervised Skin Lesion Segmentation.md",
-    "Untitled.canvas"
+    "Thesis/Cauliflower/attachments/Pasted image 20231217162602.png"
   ]
 }
