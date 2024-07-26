@@ -1,0 +1,1 @@
+## Apply ideas from Cognitive Philosophy to AI Safety solutions 
