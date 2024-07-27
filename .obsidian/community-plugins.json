@@ -1,10 +1,10 @@
 [
-  "obsidian-vimrc-support",
   "open-in-new-tab",
   "cycle-through-panes",
   "copy-url-in-preview",
   "obsidian-wordy",
   "table-editor-obsidian",
   "quick-latex",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-vimrc-support"
 ]

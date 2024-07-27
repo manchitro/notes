@@ -11,11 +11,14 @@
             "id": "cd75fcd3009f83af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "AI Safety/Natural Abstraction Hypothesis.md",
-                "mode": "source",
-                "source": true
+                "file": "AI Safety/AI Safety.canvas",
+                "viewState": {
+                  "x": -496.523932213655,
+                  "y": -96.02152695232273,
+                  "zoom": -1.1981708758665566
+                }
               }
             }
           },
@@ -23,19 +26,15 @@
             "id": "fbfb62dd49ee026b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AI Safety/Canvas.canvas",
-                "viewState": {
-                  "x": -460.04007154202554,
-                  "y": 20.51919976024595,
-                  "zoom": -1.521546441451183
-                }
+                "file": "AI Safety/Agency and Agents.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5069465637207
   },
   "right": {
     "id": "c8b80d9988e69760",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Safety/Canvas.canvas",
+                "file": "AI Safety/AI Safety.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Safety/Canvas.canvas",
+                "file": "AI Safety/AI Safety.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Safety/Canvas.canvas"
+                "file": "AI Safety/AI Safety.canvas"
               }
             }
           },
@@ -176,15 +175,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fbfb62dd49ee026b",
+  "active": "cd75fcd3009f83af",
   "lastOpenFiles": [
+    "AI Safety/Agency and Agents.md",
+    "AI Safety/attachments/aisafetybook.pdf",
+    "AI Safety/AI Safety.canvas",
     "AI Safety/Natural Abstraction Hypothesis.md",
-    "AI Safety/Canvas.canvas",
+    "AI Safety/Research Taste Exercises.md",
+    "AI Safety/Effective Altruism.md",
+    "AI Safety/attachments/aisafetybook.pdf.crdownload",
     "AI Safety/attachments/2001.07573",
     "Efficiency/Try Anki.md",
     "Orion/Data Source Tracking for tblTabulationCache.md",
     "Efficiency/Research as a Stochastic Decision Process.md",
-    "AI Safety/Effective Altruism.md",
     "Git/Git Credential Storage.perplexity.md",
     "Orion/attachments/Results.md",
     "Git",
@@ -206,10 +209,6 @@
     "CityU",
     "AI Safety/How to become an AI safety researcher.md",
     "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
-    "AI Safety/attachments/1805.00899v2.pdf",
-    "AI Safety/attachments/1805.00899v2.pdf.crdownload",
-    "AI Safety/Agency and Agents.md",
-    "AI Safety/Research Taste Exercises.md",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
     "IELTS/10-answers/Test 1/1-Listening.md",
