@@ -12,6 +12,7 @@
 		- This will only work if only those CSS lines are overridden from the main CSS file.
 		- Will not work if overriding doesn't work and the only option is to replace the whole CSS.
 	- Another approach is using Angular Breakpoint Directive, which will probably require a lot of revamp and will be time consuming
+	- Ask perplexity how to inject dynamic CSS into @media queries
 #### Example custom theme settings JSON
 ```
 {

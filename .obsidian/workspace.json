@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71895b6012e89191",
+        "id": "843cc3297cfa4af1",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d445c066c40131",
+            "id": "08fa40a612f65faa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Orion/My Active Issues.md",
-                "mode": "preview",
-                "source": false
+                "file": "AI Safety/AI Safety.canvas",
+                "viewState": {
+                  "x": 193.5,
+                  "y": 235,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orion/My Active Issues.md",
+                "file": "AI Safety/AI Safety.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orion/My Active Issues.md",
+                "file": "AI Safety/AI Safety.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +141,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orion/My Active Issues.md"
+                "file": "AI Safety/AI Safety.canvas"
               }
+            }
+          },
+          {
+            "id": "df5a06d7816bd7fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +172,12 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "f1d445c066c40131",
+  "active": "08fa40a612f65faa",
   "lastOpenFiles": [
-    "Orion/Untitled.md",
+    "AI Safety/attachments/2405.12213.1",
+    "AI Safety/attachments/2405.12213",
     "Orion/My Active Issues.md",
+    "Orion/Untitled.md",
     "Orion/attachments/Pasted image 20240728134135.png",
     "Orion/attachments/Pasted image 20240728133747.png",
     "Orion/attachments/Pasted image 20240728123525.png",
@@ -203,10 +216,8 @@
     "CityU/CSE Core Courses.md",
     "CityU",
     "AI Safety/How to become an AI safety researcher.md",
-    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
-    "IELTS/10-answers/Test 1/1-Listening.md",
     "Thesis/Cauliflower/attachments/Pasted image 20231222023933.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png",
     "Wedding/attachments/overview_image_13190958_14286319.png"

@@ -6,9 +6,10 @@
 		{"id":"a8b62dd96f1430ba","type":"text","text":"# People","x":-1620,"y":-621,"width":160,"height":60},
 		{"id":"1935f6de037c015a","type":"text","text":"![[How to become an AI safety researcher#Alex Turner]]","x":-1460,"y":-180,"width":598,"height":270},
 		{"id":"2f238b52a85c1e1c","type":"text","text":"### Dan Hendrycks\n- [Home](https://people.eecs.berkeley.edu/~hendrycks/)\n- Executive & Research Director at [Center For AI Safety](https://www.safe.ai/)\n### ToDo\n### Read [[aisafetybook.pdf| An Introduction to AI Safety, Ethics, and Society by Dan]]","x":-1460,"y":90,"width":598,"height":290},
-		{"id":"4a58862e81b49217","type":"text","text":"## Potential Research Areas\n1. Machine Ethics | [[1805.00899v2.pdf| Implementations in Machine Ethics: A Survey]]\n2. Reward Hacking","x":-40,"y":-100,"width":340,"height":380},
+		{"id":"4a58862e81b49217","type":"text","text":"## Potential Research Areas\n1. Machine Ethics | [[1805.00899v2.pdf| Implementations in Machine Ethics: A Survey]]\n2. Reward Hacking","x":-40,"y":-100,"width":340,"height":190},
 		{"id":"dcdb0a6a67e22a75","type":"text","text":"## ToDo\n- Find researchers and their work\n![[How to become an AI safety researcher#ToDo]]","x":-40,"y":-426,"width":360,"height":186},
-		{"id":"39f51e5fbb8c5315","type":"text","text":"## Potential Research Jobs\n1. Research Engineer at [Center For AI Safety](https://www.safe.ai/) | [find it here](https://jobs.lever.co/aisafety/297ef7ae-a5aa-4c7e-a954-bf4535fd0e88)","x":340,"y":-100,"width":320,"height":380}
+		{"id":"39f51e5fbb8c5315","type":"text","text":"## Potential Research Jobs\n1. Research Engineer at [Center For AI Safety](https://www.safe.ai/) | [find it here](https://jobs.lever.co/aisafety/297ef7ae-a5aa-4c7e-a954-bf4535fd0e88)","x":340,"y":-100,"width":320,"height":190},
+		{"id":"5aad6348eab1d687","x":-40,"y":143,"width":467,"height":184,"type":"text","text":"# Interesting Research Papers\n- [Octo: An open-source generalist robot policy](https://arxiv.org/abs/2405.12213)\n- "}
 	],
 	"edges":[
 		{"id":"41346b33e3297575","fromNode":"eb8107d8665ef6de","fromSide":"right","toNode":"41a2e50bee16d0ec","toSide":"left"},

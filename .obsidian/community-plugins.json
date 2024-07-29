@@ -7,5 +7,7 @@
   "quick-latex",
   "obsidian-pandoc",
   "obsidian-vimrc-support",
-  "obsidian-wordnet-plugin"
+  "obsidian-wordnet-plugin",
+  "obsidian-git",
+  "obsidian-version-history-diff"
 ]
