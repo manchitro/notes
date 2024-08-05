@@ -1,6 +1,24 @@
+# [AP20-3045](https://nuarca.atlassian.net/browse/AP20-3045)
+## Add time for adjournment time on admin page  
+### Status: In Progress
+#### ToDo
+- [x] Create a new table `tblMeetingDateHistory`
+	- [x] Create view `vwMeetingDateHistory`
+	- [x] Add table to Data Dictionary
+- [x] Add UI support for multiple Adjournment Date (meeting can be adjourned multiple times)
+- [ ] Add support for inserting meeting date history
+#### Bugs and fixes
+- [x] Adjournment time should not be editable before clicking adjourn meeting. 
+- [x] After adjourning original meeting date does not retain time
+	- [x] Where is original meeting time stored?
+- [x] Original Meeting time is saved but not showing in UI
+	- [x] Original meeting time is not initialized 
+- [x] Adjournment time update updates history time 
+#### [[AP20-3045 Flowchart]]
+- - -
 # [AP20-3788](https://nuarca.atlassian.net/browse/AP20-3788)
 ## Reduce shareholder portal Custom URL loading time 
-### Status: In Progress (Complete AP20-3789 First)
+### Status: In Progress
 #### ToDo
 - Try to find another way to load fetched CSS properties on page (ask perplexity). If no other way can be found
 	- [Perplexity suggested, among other things, the ngStyle directive](https://www.perplexity.ai/search/in-my-angular-app-i-have-to-fe-qq0lmz4nT3CxvPHuT5DhZQ)

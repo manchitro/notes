@@ -11,18 +11,28 @@
             "id": "08fa40a612f65faa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AI Safety/AI Safety.canvas",
-                "viewState": {
-                  "x": 193.5,
-                  "y": 235,
-                  "zoom": 0
-                }
+                "file": "Orion/My Active Issues.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e1b3093729f722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orion/AP20-3045 Flowchart.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mermaid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Safety/AI Safety.canvas",
+                "file": "Orion/AP20-3045 Flowchart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Safety/AI Safety.canvas",
+                "file": "Orion/AP20-3045 Flowchart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Safety/AI Safety.canvas"
+                "file": "Orion/AP20-3045 Flowchart.md"
               }
             }
           },
@@ -154,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,11 +182,15 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "08fa40a612f65faa",
+  "active": "36e1b3093729f722",
   "lastOpenFiles": [
+    "Orion/My Active Issues.md",
+    "Orion/AP20-3045 Flowchart.md",
+    "Orion/CacheTabulationByCampaignID Flowchart.md",
+    "Orion/attachments/Pasted image 20240730124235.png",
+    "AI Safety/AI Safety.canvas",
     "AI Safety/attachments/2405.12213.1",
     "AI Safety/attachments/2405.12213",
-    "Orion/My Active Issues.md",
     "Orion/Untitled.md",
     "Orion/attachments/Pasted image 20240728134135.png",
     "Orion/attachments/Pasted image 20240728133747.png",
@@ -188,7 +202,6 @@
     "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "Orion/attachments/Results.md",
     "AI Safety/attachments/aisafetybook.pdf",
-    "AI Safety/AI Safety.canvas",
     "AI Safety/Agency and Agents.md",
     "AI Safety/Natural Abstraction Hypothesis.md",
     "AI Safety/Research Taste Exercises.md",
@@ -207,19 +220,16 @@
     "Ideas/Cognitive Philosophy and AI Safety.md",
     "Ideas",
     "Orion/CacheVoteFundSummaryData Flowchart.md",
-    "Orion/CacheTabulationByCampaignID Flowchart.md",
     "Orion/Issuer Portal Widget Cache Bug.md",
     "Orion/CacheVoteFundSummaryData Flowchart.md~",
     "Orion/Untitled 1.md",
     "Orion/attachments",
     "Orion/Meeting Dropdown Date Mismatch.md",
     "CityU/CSE Core Courses.md",
-    "CityU",
     "AI Safety/How to become an AI safety researcher.md",
     "Vim/Intellij 'select and search' broken.md",
     "Vim/obsidian editor font size shortcut.md",
     "Thesis/Cauliflower/attachments/Pasted image 20231222023933.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png",
-    "Wedding/attachments/overview_image_13190958_14286319.png"
+    "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png"
   ]
 }
