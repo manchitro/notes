@@ -30,6 +30,28 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b9a1c833af4225e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to AI Safety, Ethics and Society.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "628d3533e046e939",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AI Safety/attachments/aisafetybook.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -227,8 +249,6 @@
     "Orion/Meeting Dropdown Date Mismatch.md",
     "CityU/CSE Core Courses.md",
     "AI Safety/How to become an AI safety researcher.md",
-    "Vim/Intellij 'select and search' broken.md",
-    "Vim/obsidian editor font size shortcut.md",
     "Thesis/Cauliflower/attachments/Pasted image 20231222023933.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png"
   ]
