@@ -4,30 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "e87e3a2f2cca080f",
+        "id": "843cc3297cfa4af1",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0924f4bcf67312",
+            "id": "08fa40a612f65faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
+                "file": "Orion/My Active Issues.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e1b3093729f722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orion/AP20-3045 Flowchart.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b9a1c833af4225e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to AI Safety, Ethics and Society.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6301cb8cfe5d106e",
+            "id": "628d3533e046e939",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
-                "mode": "source",
-                "source": false
+                "file": "AI Safety/attachments/aisafetybook.pdf"
               }
             }
           }
@@ -61,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "mermaid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "c8b80d9988e69760",
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
+                "file": "Orion/AP20-3045 Flowchart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md",
+                "file": "Orion/AP20-3045 Flowchart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,17 +156,7 @@
             }
           },
           {
-            "id": "79de8f6d42bb1454",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Orion/Issuer Portal Widget Cache Bug.md"
-              }
-            }
-          },
-          {
-            "id": "2cb48d5f37ea5bae",
+            "id": "454f4f5985184c3c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,13 +166,31 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "7eceb2035e7e3cc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orion/AP20-3045 Flowchart.md"
+              }
+            }
+          },
+          {
+            "id": "df5a06d7816bd7fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,57 +199,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "6301cb8cfe5d106e",
+  "active": "36e1b3093729f722",
   "lastOpenFiles": [
-    "Orion/Flowchart for Tabulation Cache.md",
-    "Orion/Issuer Portal Widget Cache Bug.md",
-    "Orion/attachments/Results.md",
-    "Orion/attachments",
+    "Orion/My Active Issues.md",
+    "Orion/AP20-3045 Flowchart.md",
+    "Orion/CacheTabulationByCampaignID Flowchart.md",
+    "Orion/attachments/Pasted image 20240730124235.png",
+    "AI Safety/AI Safety.canvas",
+    "AI Safety/attachments/2405.12213.1",
+    "AI Safety/attachments/2405.12213",
+    "Orion/Untitled.md",
+    "Orion/attachments/Pasted image 20240728134135.png",
+    "Orion/attachments/Pasted image 20240728133747.png",
+    "Orion/attachments/Pasted image 20240728123525.png",
+    "Orion/attachments/Pasted image 20240728123427.png",
+    "Orion/attachments/Pasted image 20240728092638.png",
+    "Orion/attachments/Pasted image 20240728092319.png",
+    "Orion/attachments/Pasted image 20240728092004.png",
     "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
-    "Orion/Meeting Dropdown Date Mismatch.md",
-    "CSE Core Courses.md",
-    "CityU",
-    "AI Safety/How to become an AI safety researcher.md",
-    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf",
-    "AI Safety/attachments/1805.00899v2.pdf",
-    "AI Safety/attachments/1805.00899v2.pdf.crdownload",
-    "AI Safety/attachments/Precis-of-The-Limits-of-Morality-1344xg3.pdf.crdownload",
-    "AI Safety/attachments/hpmor.pdf",
-    "AI Safety/attachments/hpmor.pdf.crdownload",
-    "AI Safety/attachments/CV_PeterBarnett.pdf",
-    "AI Safety/attachments/CV_PeterBarnett.pdf.crdownload",
+    "Orion/attachments/Results.md",
+    "AI Safety/attachments/aisafetybook.pdf",
     "AI Safety/Agency and Agents.md",
+    "AI Safety/Natural Abstraction Hypothesis.md",
     "AI Safety/Research Taste Exercises.md",
+    "AI Safety/Effective Altruism.md",
+    "AI Safety/attachments/aisafetybook.pdf.crdownload",
+    "AI Safety/attachments/2001.07573",
     "Efficiency/Try Anki.md",
+    "Orion/Data Source Tracking for tblTabulationCache.md",
     "Efficiency/Research as a Stochastic Decision Process.md",
-    "Vim/Intellij 'select and search' broken.md",
-    "Vim/obsidian editor font size shortcut.md",
-    "IELTS/10-answers/Test 1/1-Listening.md",
-    "Orion/AST/Controls.md",
-    "Orion/AST/MFA/MFA-XSS-Fix.md",
-    "Thesis/Cauliflower/YOLO-VEGNET Exp Results.md",
-    "Thesis/Cauliflower/MFA Code review.md",
+    "Git/Git Credential Storage.perplexity.md",
+    "Git",
+    "Open Source/YouTube.md",
+    "Open Source/Flud.md",
+    "Open Source",
+    "Ideas/Govt. Controls the Internet.md",
+    "Ideas/Cognitive Philosophy and AI Safety.md",
+    "Ideas",
+    "Orion/CacheVoteFundSummaryData Flowchart.md",
+    "Orion/Issuer Portal Widget Cache Bug.md",
+    "Orion/CacheVoteFundSummaryData Flowchart.md~",
+    "Orion/Untitled 1.md",
+    "Orion/attachments",
+    "Orion/Meeting Dropdown Date Mismatch.md",
+    "CityU/CSE Core Courses.md",
+    "AI Safety/How to become an AI safety researcher.md",
     "Thesis/Cauliflower/attachments/Pasted image 20231222023933.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png",
-    "Thesis/Cauliflower/Cauliflower SLR.md",
-    "Wedding/attachments/overview_image_13190958_14286319.png",
-    "Wedding/Suit Notes.md",
-    "Wedding/attachments/Screenshot_20231124-161651~3.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231218002423.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231217180842.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231217175015.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231217163414.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231217163243.png",
-    "Thesis/Cauliflower/attachments/Pasted image 20231217162602.png",
-    "Thesis/Cauliflower/CDM-Net.md",
-    "Thesis/Segmentation Lit/Self-Supervised Skin Lesion Segmentation.md",
-    "Personal/NVIM.md",
-    "Personal/letter.md",
-    "NLP/23-92896-1_naive-bayes.md",
-    "NLP/Naive.md",
-    "Untitled.canvas"
+    "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png"
   ]
 }

@@ -38,10 +38,12 @@ author's [website](https://peterbarnett.org/), [[CV_PeterBarnett.pdf|CV]]
 		- Prerequisite: [ARCHES: AI Research Considerations for Human Existential Safety](http://acritch.com/arches/)
 	- Complex systems, economics, finance, business
 - - -
-Also [[Try Anki]]
-Also read [[Research as a Stochastic Decision Process]]
-Also read [[Research Taste Exercises]]
-Also read [How To Get Into Independent Research On Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
+## ToDo
+- Also [[Try Anki]] 
+- Also read [[Research as a Stochastic Decision Process]]
+- Also read [[Research Taste Exercises]]
+- Also read [How To Get Into Independent Research On Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
+
 - - -
 ## **Become comfortable working in a pre-paradigmatic field**
 AI safety is often called a [pre-paradigmatic field](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency#Preparadigmicity), where there aren’t established frameworks or an established canon of facts.
