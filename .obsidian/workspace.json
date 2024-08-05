@@ -15,14 +15,37 @@
               "state": {
                 "file": "AI Safety/AI Safety.canvas",
                 "viewState": {
-                  "x": 193.5,
+                  "x": -1161,
                   "y": 235,
                   "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "b9a1c833af4225e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to AI Safety, Ethics and Society.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "628d3533e046e939",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AI Safety/attachments/aisafetybook.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Safety/AI Safety.canvas",
+                "file": "Introduction to AI Safety, Ethics and Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Safety/AI Safety.canvas",
+                "file": "Introduction to AI Safety, Ethics and Society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Safety/AI Safety.canvas"
+                "file": "Introduction to AI Safety, Ethics and Society.md"
               }
             }
           },
@@ -154,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,8 +195,12 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "08fa40a612f65faa",
+  "active": "b9a1c833af4225e9",
   "lastOpenFiles": [
+    "AI Safety/AI Safety.canvas",
+    "AI Safety/attachments/aisafetybook.pdf",
+    "Introduction to AI Safety, Ethics and Society.md",
+    "Introduction to AI Safety,.md",
     "AI Safety/attachments/2405.12213.1",
     "AI Safety/attachments/2405.12213",
     "Orion/My Active Issues.md",
@@ -187,8 +214,6 @@
     "Orion/attachments/Pasted image 20240728092004.png",
     "Orion/AP20-3788 Reduce shareholder portal Custom URL loading time.md",
     "Orion/attachments/Results.md",
-    "AI Safety/attachments/aisafetybook.pdf",
-    "AI Safety/AI Safety.canvas",
     "AI Safety/Agency and Agents.md",
     "AI Safety/Natural Abstraction Hypothesis.md",
     "AI Safety/Research Taste Exercises.md",
@@ -214,10 +239,7 @@
     "Orion/attachments",
     "Orion/Meeting Dropdown Date Mismatch.md",
     "CityU/CSE Core Courses.md",
-    "CityU",
     "AI Safety/How to become an AI safety researcher.md",
-    "Vim/Intellij 'select and search' broken.md",
-    "Vim/obsidian editor font size shortcut.md",
     "Thesis/Cauliflower/attachments/Pasted image 20231222023933.png",
     "Thesis/Cauliflower/attachments/Pasted image 20231219112555.png",
     "Wedding/attachments/overview_image_13190958_14286319.png"
