@@ -11,8 +11,12 @@
             "id": "5ab610c8ff346570",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Dear Abbu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Personal/Dear Abbu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Personal/Dear Abbu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Personal/Dear Abbu.md"
+          }
         }
       },
       {
@@ -131,7 +139,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,6 +153,10 @@
   },
   "active": "5ab610c8ff346570",
   "lastOpenFiles": [
+    "Personal/attachments/Pasted image 20240805082043.png",
+    "Personal/attachments/Screenshot_2024-08-05-08-06-23-416_com.android.chrome.png",
+    "Personal/attachments",
+    "Personal/Dear Abbu.md",
     "Priya/Attachment-2-PG-applicants-Candidate-Guide.pdf",
     "Efficiency/Try Anki.md",
     "Open Source/YouTube.md",
@@ -164,7 +176,6 @@
     "Image Processing/papers/TODO.md",
     "Nix/Untitled.canvas",
     "setup fan control.md",
-    "Personal/Untitled 1.md",
     "Workout",
     "Wedding/attachments/Screenshot_20231124-161651~3.png",
     "Wedding/attachments/Screenshot_20231124-161438.png",
@@ -175,7 +186,6 @@
     "Wedding/attachments/overview_image_97862958_27613.png",
     "Wedding/attachments/overview_image_72776078_27520.png",
     "Wedding/attachments/overview_image_37604236_27347.png",
-    "Wedding/attachments/overview_image_266543637_5968585.png",
     "Wedding/Suit Notes.md",
     "Wedding/attachments",
     "Wedding",
@@ -183,8 +193,6 @@
     "Vim",
     "Thesis/Thesis_group_list.pdf",
     "Thesis/Thesis-Book-Updated-2-1.docx",
-    "Thesis/tableConvert.com_xfscay.csv",
-    "Thesis/tableConvert.com_o3pcd6.csv",
     "Thesis/Segmentation Lit/Self-Supervised Skin Lesion Segmentation.md",
     "Thesis/Jute/Jute Disease Detection.md",
     "Thesis/Cauliflower/YOLO-VEGNET Exp Results.md",
