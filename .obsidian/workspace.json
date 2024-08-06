@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orion/AP20-3045 Flowchart.md",
-                "mode": "preview",
+                "file": "Bangladesh/Reading list.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5069465637207,
-    "collapsed": true
+    "width": 277.5069465637207
   },
   "right": {
     "id": "c8b80d9988e69760",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orion/AP20-3045 Flowchart.md",
+                "file": "Bangladesh/Reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orion/AP20-3045 Flowchart.md",
+                "file": "Bangladesh/Reading list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orion/AP20-3045 Flowchart.md"
+                "file": "Bangladesh/Reading list.md"
               }
             }
           },
@@ -206,8 +205,10 @@
   },
   "active": "36e1b3093729f722",
   "lastOpenFiles": [
-    "Orion/My Active Issues.md",
     "Orion/AP20-3045 Flowchart.md",
+    "Bangladesh/Reading list.md",
+    "Bangladesh",
+    "Orion/My Active Issues.md",
     "Orion/CacheTabulationByCampaignID Flowchart.md",
     "Orion/attachments/Pasted image 20240730124235.png",
     "AI Safety/AI Safety.canvas",
@@ -245,7 +246,6 @@
     "Orion/Issuer Portal Widget Cache Bug.md",
     "Orion/CacheVoteFundSummaryData Flowchart.md~",
     "Orion/Untitled 1.md",
-    "Orion/attachments",
     "Orion/Meeting Dropdown Date Mismatch.md",
     "CityU/CSE Core Courses.md",
     "AI Safety/How to become an AI safety researcher.md",
